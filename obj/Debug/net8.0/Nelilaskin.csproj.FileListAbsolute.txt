@@ -1,0 +1,15 @@
+U:\Syksy 25\Client_side_programming\Nelilaskin\bin\Debug\net8.0\Nelilaskin.exe
+U:\Syksy 25\Client_side_programming\Nelilaskin\bin\Debug\net8.0\Nelilaskin.deps.json
+U:\Syksy 25\Client_side_programming\Nelilaskin\bin\Debug\net8.0\Nelilaskin.runtimeconfig.json
+U:\Syksy 25\Client_side_programming\Nelilaskin\bin\Debug\net8.0\Nelilaskin.dll
+U:\Syksy 25\Client_side_programming\Nelilaskin\bin\Debug\net8.0\Nelilaskin.pdb
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.GeneratedMSBuildEditorConfig.editorconfig
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.AssemblyInfoInputs.cache
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.AssemblyInfo.cs
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.csproj.CoreCompileInputs.cache
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.sourcelink.json
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.dll
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\refint\Nelilaskin.dll
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.pdb
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\Nelilaskin.genruntimeconfig.cache
+U:\Syksy 25\Client_side_programming\Nelilaskin\obj\Debug\net8.0\ref\Nelilaskin.dll
